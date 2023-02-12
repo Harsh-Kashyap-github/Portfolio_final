@@ -1,0 +1,67 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0em;
+    padding: 0em;
+    overflow-x: hidden; 
+}
+#photo
+{
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    border: 0.5em solid #0D6EFD;
+   
+}
+#profilepic
+{
+    margin-top: 10em;
+    margin-bottom: 10em;
+  
+}
+#introduction
+{
+   margin-top: 10em;
+   margin-bottom: 10em;
+   color: white;
+   
+}
+#introduction h3,h1,h5,button
+{
+    margin:0.5em;
+    text-shadow: 0.1em 0.1em 0.1em black;
+  color: white;
+  font-family:fantasy;
+}
+#introduction h3
+{
+    font-size:4em ;
+    text-shadow: 0.1em 0.1em 0.1em black;color: white;
+}
+#introduction h1
+{
+    font-size:6em ;
+    text-shadow: 0.1em 0.1em 0.1em black;color: white;
+}
+#introduction h5
+{
+    font-size:1.7em ;
+    margin-bottom: 4em;
+    text-shadow: 0.1em 0.1em 0.1em black;color: white;
+}
+#home
+{
+   margin-left: 0em;
+   margin-right: 0em;
+   padding: 0em;
+   
+   background-image: linear-gradient(to right, #fffbd5, #00FFFF);
+   
+}
+.line1
+{
+    margin: 0em;
+    background-color:#0D6EFD;
+    width:100%;
+    height: 5em;
+}

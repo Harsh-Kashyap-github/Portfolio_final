@@ -1,0 +1,73 @@
+#about
+{
+    margin-left: 0em;
+   margin-right: 0em;
+   padding: 0em;
+   background-image: linear-gradient(to right, #fffbd5, #ffffff);
+ 
+    color: black;
+    text-shadow: 0.1em 0.1em 0.1em white;
+    font-family: sans-serif;
+}
+
+#start h3
+{
+    margin:1em;
+    font-size: 3em;;
+
+
+}
+#start p{
+    margin: 1em;;
+    font-size: 2em;
+}
+#experience p
+{
+    margin: 1em;;
+    font-size: 2em;
+    text-align:left;
+
+} 
+#experience h4
+{
+    margin-top: 0.3em;
+font-size: 5em;
+text-align:center;
+}
+
+#fields h3{
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    
+
+}
+.field
+{
+    
+ 
+   
+    border-radius:50%;
+    background-color: #0D6EFD;
+    color: whitesmoke;
+    text-shadow: 0.1em 0.1em 0.1em black;
+}
+
+#services h3{
+    margin: 1em;
+    font-size: 3em;
+}
+
+.offer
+{
+    text-align: center;
+}
+.offer h3{
+    background-color: #0D6EFD;
+    border-radius: 0.5em;
+    text-shadow: 0.1em 0.1em 0.1em black;
+    color: whitesmoke;
+}
+.offer p{
+    font-size: 1.5em;
+}

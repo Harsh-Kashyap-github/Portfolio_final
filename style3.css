@@ -1,0 +1,28 @@
+#carousal
+{
+    background-image: linear-gradient(to right, #fffbd5, #00FFFF);
+    margin-left: 0em;
+    margin-right: 0em;
+    color: white;
+    text-shadow: 0.1em 0.1em 0.1em black;
+}
+#carousal h3
+{
+  font-size: 3em;
+  font-family: fantasy;
+  margin:1em;
+  
+  padding: 0em;
+}
+#contact
+{
+    background-color: grey;
+    height: large;
+}
+#contact p
+{
+    color: white;
+   margin-top:1em;
+    font-size: 1.7em;
+    text-align: center;
+}
